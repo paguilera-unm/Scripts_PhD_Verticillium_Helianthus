@@ -312,7 +312,7 @@ Post-alignment quality control using the Transcript Integrity Number (TIN) compu
 | *V. dahliae* 85S | GCA_004798885.1 | Comparative genomics |
 | *V. dahliae* JR2 | GCA_000400815.2 | Comparative genomics |
 | *H. annuus* HanXRQr2.1 | — | RNA-seq host reference |
-| *V. dahliae* VArg1 | This study | RNA-seq pathogen reference |
+| *V. dahliae* Colon | This study | RNA-seq pathogen reference |
 
 ---
 
