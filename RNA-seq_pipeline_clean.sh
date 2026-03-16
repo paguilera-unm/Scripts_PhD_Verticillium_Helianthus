@@ -13,8 +13,8 @@ WD="RNA-Seq_Verticillium"
 # Genomas y anotaciones de referencia
 REF_SUNFLOWER="HanXRQr2.0-SUNRISE-2.1.genome.fasta"
 GTF_SUNFLOWER="HanXRQr2.0-SUNRISE-2.1.funcAnnot.gtf"
-REF_VD="Verticillium_dahliae_VArg1.scaffolds.fa"
-GTF_VD="Verticillium_dahliae_VArg1.gtf"
+REF_VD="Verticillium_dahliae_Colon.scaffolds.fa"
+GTF_VD="Verticillium_dahliae_Colon.gtf"
 
 # Índices STAR
 IDX_SUNFLOWER="STAR_index/HanXRQr21_STAR_index"
